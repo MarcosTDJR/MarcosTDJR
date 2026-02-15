@@ -233,29 +233,6 @@ const marcos = {
 
 ---
 
-## 🎮 Jogue Tic Tac Toe Comigo!
-
-<div align="center">
-
-[![Tic Tac Toe](https://tic-tac-toe.shlok.dev/game.svg)](https://tic-tac-toe.shlok.dev/)
-
-*Clique para jogar!*
-
-</div>
-
----
-
-## 🎯 Outros Jogos Disponíveis
-
-<div align="center">
-
-| 🎮 Connect Four | ♟️ Chess |
-|:---------------:|:--------:|
-| [![Connect Four](https://readme-games-api.vercel.app/api/ConnectFour?username=MarcosTDJR&theme=dark)](https://github.com/Readme-Games/Readme-Games) | [![Chess](https://readme-games-api.vercel.app/api/Chess?username=MarcosTDJR&theme=dark)](https://github.com/Readme-Games/Readme-Games) |
-| *Conecte 4 peças* | *Jogue xadrez comigo* |
-
-</div>
-
 <div align="center">
 
 ### 💡 _"A tecnologia move o mundo, mas são as pessoas que movem a tecnologia."_
