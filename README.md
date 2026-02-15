@@ -82,185 +82,28 @@ Apaixonado por **robótica**, **automação**, **inteligência artificial**, **m
 Confira meus projetos e trabalhos no meu [**Portfólio Interativo**](https://github.com/MarcosTDJR/Import_Folio) 🎮
 
 ---
-
-## 🎮 Relaxe um Pouco - Jogue Pong!
-
-<div align="center">
-
-### Use as setas ↑ e ↓ ou W e S para jogar!
-
-<canvas id="pong" width="600" height="400" style="border:2px solid #fff; background:#000;"></canvas>
-
-<script>
-const canvas = document.getElementById('pong');
-const ctx = canvas.getContext('2d');
-
-// Game variables
-let ballX = canvas.width / 2;
-let ballY = canvas.height / 2;
-let ballSpeedX = 5;
-let ballSpeedY = 3;
-const ballRadius = 8;
-
-const paddleHeight = 80;
-const paddleWidth = 10;
-let leftPaddleY = canvas.height / 2 - paddleHeight / 2;
-let rightPaddleY = canvas.height / 2 - paddleHeight / 2;
-const paddleSpeed = 6;
-
-let upPressed = false;
-let downPressed = false;
-let wPressed = false;
-let sPressed = false;
-
-let leftScore = 0;
-let rightScore = 0;
-
-// Event listeners
-document.addEventListener('keydown', keyDownHandler);
-document.addEventListener('keyup', keyUpHandler);
-
-function keyDownHandler(e) {
-    if (e.key === 'ArrowUp') upPressed = true;
-    if (e.key === 'ArrowDown') downPressed = true;
-    if (e.key === 'w' || e.key === 'W') wPressed = true;
-    if (e.key === 's' || e.key === 'S') sPressed = true;
-}
-
-function keyUpHandler(e) {
-    if (e.key === 'ArrowUp') upPressed = false;
-    if (e.key === 'ArrowDown') downPressed = false;
-    if (e.key === 'w' || e.key === 'W') wPressed = false;
-    if (e.key === 's' || e.key === 'S') sPressed = false;
-}
-
-function drawBall() {
-    ctx.beginPath();
-    ctx.arc(ballX, ballY, ballRadius, 0, Math.PI * 2);
-    ctx.fillStyle = '#0f0';
-    ctx.fill();
-    ctx.closePath();
-}
-
-function drawPaddle(x, y) {
-    ctx.fillStyle = '#fff';
-    ctx.fillRect(x, y, paddleWidth, paddleHeight);
-}
-
-function drawScore() {
-    ctx.font = '32px Arial';
-    ctx.fillStyle = '#fff';
-    ctx.fillText(leftScore, canvas.width / 4, 50);
-    ctx.fillText(rightScore, (3 * canvas.width) / 4, 50);
-}
-
-function drawNet() {
-    ctx.setLineDash([5, 15]);
-    ctx.beginPath();
-    ctx.moveTo(canvas.width / 2, 0);
-    ctx.lineTo(canvas.width / 2, canvas.height);
-    ctx.strokeStyle = '#444';
-    ctx.stroke();
-    ctx.setLineDash([]);
-}
-
-function movePaddles() {
-    // Left paddle (W/S)
-    if (wPressed && leftPaddleY > 0) {
-        leftPaddleY -= paddleSpeed;
-    }
-    if (sPressed && leftPaddleY < canvas.height - paddleHeight) {
-        leftPaddleY += paddleSpeed;
-    }
-
-    // Right paddle (Arrows)
-    if (upPressed && rightPaddleY > 0) {
-        rightPaddleY -= paddleSpeed;
-    }
-    if (downPressed && rightPaddleY < canvas.height - paddleHeight) {
-        rightPaddleY += paddleSpeed;
-    }
-}
-
-function moveBall() {
-    ballX += ballSpeedX;
-    ballY += ballSpeedY;
-
-    // Top and bottom collision
-    if (ballY + ballRadius > canvas.height || ballY - ballRadius < 0) {
-        ballSpeedY = -ballSpeedY;
-    }
-
-    // Left paddle collision
-    if (
-        ballX - ballRadius < paddleWidth &&
-        ballY > leftPaddleY &&
-        ballY < leftPaddleY + paddleHeight
-    ) {
-        ballSpeedX = -ballSpeedX;
-        let deltaY = ballY - (leftPaddleY + paddleHeight / 2);
-        ballSpeedY = deltaY * 0.15;
-    }
-
-    // Right paddle collision
-    if (
-        ballX + ballRadius > canvas.width - paddleWidth &&
-        ballY > rightPaddleY &&
-        ballY < rightPaddleY + paddleHeight
-    ) {
-        ballSpeedX = -ballSpeedX;
-        let deltaY = ballY - (rightPaddleY + paddleHeight / 2);
-        ballSpeedY = deltaY * 0.15;
-    }
-
-    // Score points
-    if (ballX - ballRadius < 0) {
-        rightScore++;
-        resetBall();
-    }
-    if (ballX + ballRadius > canvas.width) {
-        leftScore++;
-        resetBall();
-    }
-}
-
-function resetBall() {
-    ballX = canvas.width / 2;
-    ballY = canvas.height / 2;
-    ballSpeedX = -ballSpeedX;
-    ballSpeedY = 3;
-}
-
-function draw() {
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-    
-    drawNet();
-    drawBall();
-    drawPaddle(0, leftPaddleY);
-    drawPaddle(canvas.width - paddleWidth, rightPaddleY);
-    drawScore();
-    
-    movePaddles();
-    moveBall();
-    
-    requestAnimationFrame(draw);
-}
-
-draw();
-</script>
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Estatísticas do GitHub
-
-![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosTDJR&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosTDJR&layout=compact&theme=radical)
-
+                    ╭─────────────────────╮
+                    │   MARCOS CODING!    │
+                    ╰─────────────────────╯
+                    
+                          (⌐■_■)
+                          __|__
+                         /     \
+                         | -💻-|    
+                         \_____/
+                          |   |
+                         👟  👟
+                         
+        ┌──────────────────────────────────┐
+        │ $ whoami                         │
+        │ > Full Stack Developer           │
+        │ $ status                         │
+        │ > Coding and loving it! 😄       │
+        │ $ tech_stack                     │
+        │ > Java | Python | React | More!  │
+        │ $ motto                          │
+        │ > "Code, coffee, repeat" ☕      │
+        └──────────────────────────────────┘
 ---
 
 ### 💡 _"A tecnologia move o mundo, mas são as pessoas que movem a tecnologia."_
