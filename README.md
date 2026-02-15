@@ -233,17 +233,13 @@ const marcos = {
 
 ---
 
-## 🎮 Área Interativa - Jogue Comigo!
+## 🎮 Jogue Tic Tac Toe Comigo!
 
 <div align="center">
 
-### 🕹️ Jogo da Velha (Tic Tac Toe)
+[![Tic Tac Toe](https://tic-tac-toe.shlok.dev/game.svg)](https://tic-tac-toe.shlok.dev/)
 
-**Clique nas células vazias para jogar! Você é o ❌, eu sou o ⭕**
-
-[![Tic Tac Toe](https://readme-games-api.vercel.app/api/TicTacToe?username=MarcosTDJR&theme=dark)](https://github.com/Readme-Games/Readme-Games)
-
-<sub>💡 *Cada clique faz uma jogada. O jogo salva automaticamente!*</sub>
+*Clique para jogar!*
 
 </div>
 
