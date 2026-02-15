@@ -8,7 +8,7 @@
 
 ### 🌐 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/marcos-teixeira-dutra-j%C3%BAnior-204a912b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/marcos-teixeira-dutra-junior)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markdustlab@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5511994765829)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/MarcosTDJR/Import_Folio)
@@ -118,11 +118,11 @@ Desenvolvedor em formação, movido pela **curiosidade** e pela vontade de criar
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
-║   🌟 Inovador  •  🎨 Criativo  •  📊 Analítico  •  ⚖️ Ético           ║
+║   🌟 Inovador  •  🎨 Criativo  •  📊 Analítico  •  ⚖️ Ético         ║
 ║                                                                       ║
-║   💬 Comunicativo  •  ⚡ Proativo  •  🧘 Calmo  •  🎯 Crítico         ║
+║   💬 Comunicativo  •  ⚡ Proativo  •  🧘 Calmo  •  🎯 Crítico       ║
 ║                                                                       ║
-║                   📚 Eterno Aprendiz  •  🚀 Determinado               ║
+║                   📚 Eterno Aprendiz  •  🚀 Determinado              ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
@@ -152,12 +152,12 @@ Desenvolvedor em formação, movido pela **curiosidade** e pela vontade de criar
               │   MARCOS CODING!    │
               ╰─────────────────────╯
                     
-          🌿                    ☕
-          |💚|        (⌐■_■)    (  )
-         |🟤🟤|        __|__     '──'
-         '───'        /     \
-                      | -💻-|    
-                      \_____/
+                                       
+                      (⌐■_■)          
+                       __|__          
+                      /     \        
+                      | -💻-|      
+                      \_____/        
                        |   |
                       👟  👟
                          
@@ -166,16 +166,16 @@ Desenvolvedor em formação, movido pela **curiosidade** e pela vontade de criar
         │ > Full Stack Developer           │
         │                                  │
         │ $ status                         │
-        │ > Coding and loving it! 😄       │
+        │ > Coding and loving it!          │
         │                                  │
         │ $ tech_stack                     │
         │ > Java | Python | React | More!  │
         │                                  │
         │ $ motto                          │
-        │ > "Code, coffee, repeat" ☕      │
+        │ > "Code, coffee, repeat"         │
         │                                  │
         │ $ mission                        │
-        │ > Transformar ideias em código! │
+        │ > Transformar ideias em código!  │
         └──────────────────────────────────┘
 ```
 
@@ -187,21 +187,9 @@ Desenvolvedor em formação, movido pela **curiosidade** e pela vontade de criar
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MarcosTDJR&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFF" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MarcosTDJR&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=FFF" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosTDJR&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFF" alt="Top Languages" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcosTDJR&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
-
-## 🏆 Troféus do GitHub
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarcosTDJR&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -227,9 +215,9 @@ const marcos = {
         "Contribuir em projetos Open Source",
         "Lançar projeto próprio de impacto social",
         "Dominar arquitetura de microserviços",
-        "Certificações em Cloud (AWS/Azure)"
+        "Certificações em Cloud, Cybersecurity"
     ],
-    funFact: "Transformo café em código desde 2020! ☕➡️💻"
+    funFact: "Transformo café em código desde 2021! ☕➡️💻"
 };
 ```
 
@@ -246,6 +234,15 @@ const marcos = {
 ---
 
 <div align="center">
+  ### 🎮 Convido a você a ter uma partida rápida de Jogo da Velha!
+  <br>
+<!-- Tic Tac Toe -->
+[![Readme Games](https://readme-games-api.vercel.app/api/TicTacToe?username=MarcosTDJR)](https://github.com/Readme-Games/Readme-Games)
+  
+</div>
+---
+
+<div align="center">
 
 ### 💡 _"A tecnologia move o mundo, mas são as pessoas que movem a tecnologia."_
 
@@ -255,7 +252,7 @@ const marcos = {
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Vamos_Conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/marcos-teixeira-dutra-j%C3%BAnior-204a912b4)
+[![LinkedIn](https://img.shields.io/badge/Vamos_Conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/marcos-teixeira-dutra-junior)
 [![Email](https://img.shields.io/badge/Entre_em_Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markdustlab@gmail.com)
 
 </div>
