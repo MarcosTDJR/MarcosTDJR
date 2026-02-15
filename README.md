@@ -145,7 +145,7 @@ Desenvolvedor em formação, movido pela **curiosidade** e pela vontade de criar
 
 ## 💻 Desenvolvedor em Ação
 
-<div align="center">
+<div>
 
 ```
               ╭─────────────────────╮
@@ -233,14 +233,32 @@ const marcos = {
 
 ---
 
+## 🎮 Área Interativa - Jogue Comigo!
+
 <div align="center">
-  ### 🎮 Convido a você a ter uma partida rápida de Jogo da Velha!
-  <br>
-<!-- Tic Tac Toe -->
-[![Readme Games](https://readme-games-api.vercel.app/api/TicTacToe?username=MarcosTDJR)](https://github.com/Readme-Games/Readme-Games)
-  
+
+### 🕹️ Jogo da Velha (Tic Tac Toe)
+
+**Clique nas células vazias para jogar! Você é o ❌, eu sou o ⭕**
+
+[![Tic Tac Toe](https://readme-games-api.vercel.app/api/TicTacToe?username=MarcosTDJR&theme=dark)](https://github.com/Readme-Games/Readme-Games)
+
+<sub>💡 *Cada clique faz uma jogada. O jogo salva automaticamente!*</sub>
+
 </div>
+
 ---
+
+## 🎯 Outros Jogos Disponíveis
+
+<div align="center">
+
+| 🎮 Connect Four | ♟️ Chess |
+|:---------------:|:--------:|
+| [![Connect Four](https://readme-games-api.vercel.app/api/ConnectFour?username=MarcosTDJR&theme=dark)](https://github.com/Readme-Games/Readme-Games) | [![Chess](https://readme-games-api.vercel.app/api/Chess?username=MarcosTDJR&theme=dark)](https://github.com/Readme-Games/Readme-Games) |
+| *Conecte 4 peças* | *Jogue xadrez comigo* |
+
+</div>
 
 <div align="center">
 
