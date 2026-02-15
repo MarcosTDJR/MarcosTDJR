@@ -5,7 +5,6 @@
 ### Desenvolvedor Full Stack | Cientista de Dados | Entusiasta de Tecnologia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/marcos-teixeira-dutra-j%C3%BAnior-204a912b4)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcosTDJR)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markdustlab@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5511994765829)
 
@@ -17,7 +16,7 @@
 
 Desenvolvedor em formação, movido pela curiosidade e pela vontade de criar tecnologia que faça diferença. Formado como **Técnico em Desenvolvimento de Sistemas** pela ETEC de Itaquera e atualmente cursando **Desenvolvimento de Software Multiplataforma** na **Fatec Zona Leste**.
 
-Possuo experiência sólida em **desenvolvimento full stack**, **bancos de dados SQL e NoSQL**, **análise e visualização de dados com Power BI**, além de conhecimentos em **segurança da informação**, **infraestrutura** e **fundamentos de redes**. Minha certificação internacional **TOEIC (780 pontos)** reforça meu preparo para atuar em contextos globais.
+Possuo experiência sólida em **desenvolvimento full stack**, **bancos de dados SQL e NoSQL**, **análise, manipulação e visualização de dados**, além de conhecimentos em **segurança da informação**, **infraestrutura** e **arquitetura de software, redes e negócios**. Minha certificação internacional **TOEIC (780 pontos)** reforça meu preparo para atuar em contextos globais.
 
 Apaixonado por **robótica**, **automação**, **inteligência artificial**, **machine learning**, **inovação**, **astronomia** e **biologia**, estou sempre aprendendo, experimentando e transformando ideias em soluções práticas e inteligentes.
 
@@ -27,7 +26,7 @@ Apaixonado por **robótica**, **automação**, **inteligência artificial**, **m
 
 - **🖥️ Desenvolvimento:** Programador FullStack | Web & App Designer | Game Designer
 - **📊 Dados & Gestão:** Cientista de Dados | Scrum Master
-- **🔒 Segurança:** Gray & White Hat | Analista de SOC
+- **🔒 Segurança:** White Hat | Analista de SOC
 - **🔧 Infraestrutura:** Manutencista de PC | Redes de Computadores | Técnico em Eletrônica
 
 ---
